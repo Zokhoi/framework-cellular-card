@@ -246,7 +246,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "04fff2c4-56c8-4d65-a53e-3ec275dd12f6")
@@ -300,7 +300,7 @@
 		(path "/6c47dcf9-5816-4ed5-88a6-9e570374b167/fa41b1be-1fcb-416b-8840-a43416f5061c")
 		(sheetname "EG95")
 		(sheetfile "eg95.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
@@ -859,7 +859,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "212a87c4-c95e-4d09-b3fe-d5ca6e9930e3")
@@ -913,7 +913,7 @@
 		(path "/6c47dcf9-5816-4ed5-88a6-9e570374b167/3b2a31f9-3842-4676-af15-f5e216681e0f")
 		(sheetname "EG95")
 		(sheetfile "eg95.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
 			(end 0.107836 0.36)
@@ -1072,7 +1072,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "fb99460b-f270-47ad-b8b5-c4bd73f25178")
@@ -1126,7 +1126,7 @@
 		(path "/6c47dcf9-5816-4ed5-88a6-9e570374b167/ec826a7c-af1b-48d0-a759-3ad373ba3444")
 		(sheetname "EG95")
 		(sheetfile "eg95.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
 			(end 0.107836 0.36)
@@ -1285,7 +1285,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "5eef3ce0-19fa-4038-ac35-94f4ddf958bd")
@@ -1339,7 +1339,7 @@
 		(path "/6c47dcf9-5816-4ed5-88a6-9e570374b167/f0e18ef3-479d-4f99-8c9b-a8c6ea9e7d8d")
 		(sheetname "EG95")
 		(sheetfile "eg95.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
@@ -1498,7 +1498,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "ef04776e-e002-43ad-98e0-a33f67e60a7c")
@@ -1552,7 +1552,7 @@
 		(path "/6c47dcf9-5816-4ed5-88a6-9e570374b167/cee2739b-79de-4223-8ab6-fbfa0c5cddad")
 		(sheetname "EG95")
 		(sheetfile "eg95.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
@@ -1711,7 +1711,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "91d05d3e-a8e3-4a93-8ba6-f460a552326c")
@@ -1765,7 +1765,7 @@
 		(path "/6c47dcf9-5816-4ed5-88a6-9e570374b167/582dc9ae-c7b6-420b-82c2-34427595fb46")
 		(sheetname "EG95")
 		(sheetfile "eg95.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
@@ -1924,7 +1924,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Small"
+		(property "Value" "0"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "1f77fb87-c788-4aad-adf7-4a50732b43d1")
@@ -2117,7 +2117,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Small"
+		(property "Value" "0"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "33e3767c-8a43-478f-bcf5-4f1a03efca02")
@@ -2882,7 +2882,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Small"
+		(property "Value" "0"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "3ee8b5e9-8bd5-4149-8a00-46835dcb58f0")
@@ -5079,14 +5079,15 @@
 		(at 150.6 108.35 180)
 		(tags "EG95EXGA-128-SGNS ")
 		(property "Reference" "U2"
-			(at -11.1 -15.6 0)
+			(at -11.375 -15.475 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "b0da713e-df27-4cd8-9afd-6db5b5e1dea7")
+			(uuid "23c0f9c8-8483-46d9-b23b-745ae567dc93")
 			(effects
 				(font
 					(size 0.6 0.6)
 					(thickness 0.1)
+					(bold yes)
 				)
 			)
 		)
@@ -5094,7 +5095,7 @@
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "497f6942-d1d2-4182-b418-fdc339ba899e")
+			(uuid "f9300002-98ee-419b-aa35-9d077fe39dd8")
 			(effects
 				(font
 					(size 1 1)
@@ -5106,7 +5107,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2a554f1-9bc5-40de-8eda-d07edb8d423a")
+			(uuid "92b651d8-9d95-45d0-a9e5-820493390d98")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,7 +5119,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9cda9b08-5eb0-4d40-888c-2e067001fd3d")
+			(uuid "2bd8f761-efb7-40ae-aca7-fd273ac7a394")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,7 +5131,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0abeda48-fd64-453e-b2f2-518166701309")
+			(uuid "3c710d7a-ca6a-4daa-9b55-b7822b8f7b02")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5153,7 +5154,7 @@
 			)
 			(fill solid)
 			(layer "F.Cu")
-			(uuid "2b54cdb1-7e2d-4423-b2a5-6c199bf3b7ef")
+			(uuid "3ab79390-27f2-4297-9922-da1a6bd2d32c")
 		)
 		(fp_poly
 			(pts
@@ -5165,7 +5166,7 @@
 			)
 			(fill solid)
 			(layer "F.Cu")
-			(uuid "4a9aedf3-cb15-4305-9065-4d4632bcfa45")
+			(uuid "8a63a14a-c90c-4d23-a10d-5364702be6e2")
 		)
 		(fp_poly
 			(pts
@@ -5177,7 +5178,7 @@
 			)
 			(fill solid)
 			(layer "F.Cu")
-			(uuid "f65e824f-f7f5-43f8-949b-d791695d9b3e")
+			(uuid "8e867df0-bd49-40de-af17-55eed57a451c")
 		)
 		(fp_poly
 			(pts
@@ -5189,7 +5190,7 @@
 			)
 			(fill solid)
 			(layer "F.Paste")
-			(uuid "7401ab1e-8a90-40a4-b920-a25f5aa4e7b8")
+			(uuid "1b775860-5de4-4724-a14a-529e43423171")
 		)
 		(fp_poly
 			(pts
@@ -5201,7 +5202,7 @@
 			)
 			(fill solid)
 			(layer "F.Paste")
-			(uuid "12b712c0-3827-43eb-90de-dfb66bebcb46")
+			(uuid "a6cd8574-e020-433f-baf0-fecf5f3eac88")
 		)
 		(fp_poly
 			(pts
@@ -5213,7 +5214,7 @@
 			)
 			(fill solid)
 			(layer "F.Paste")
-			(uuid "bc3499e8-f15e-43ad-91ab-fbf376676cf3")
+			(uuid "d619672d-bd41-4a47-ab24-33494f2abe3c")
 		)
 		(fp_line
 			(start 12.7 14.7066)
@@ -5223,7 +5224,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f695d6ac-959c-4085-ab5a-b0975819d745")
+			(uuid "99e995b9-9307-48d0-929c-444e134ea4bc")
 		)
 		(fp_line
 			(start 12.7 -14.7066)
@@ -5233,7 +5234,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "29ba335a-33f0-4280-8be7-e2167ea91e25")
+			(uuid "78441397-c009-438e-a8e3-b10f97954e43")
 		)
 		(fp_line
 			(start -12.7 14.7066)
@@ -5243,7 +5244,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "48433247-b800-4255-aa06-f6a7e2267fca")
+			(uuid "3618083e-1b05-4a43-ba7b-ff52eb67747b")
 		)
 		(fp_line
 			(start -12.7 -14.7066)
@@ -5253,7 +5254,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a8b42db6-83a5-4730-9f87-6b02907d3288")
+			(uuid "1ebf7a7d-734f-49f5-a8cd-e369c243d6c4")
 		)
 		(fp_poly
 			(pts
@@ -5265,7 +5266,7 @@
 			)
 			(fill solid)
 			(layer "F.Mask")
-			(uuid "78a14829-d35e-48e1-936c-4ceffff10339")
+			(uuid "23863ab5-7f87-4241-9ef8-3a8a72bddd9a")
 		)
 		(fp_poly
 			(pts
@@ -5277,7 +5278,7 @@
 			)
 			(fill solid)
 			(layer "F.Mask")
-			(uuid "ff010ae5-e13e-4c19-9b32-c57dc639a2c5")
+			(uuid "58f1a48b-de4f-4657-996a-13d8e29fd55a")
 		)
 		(fp_poly
 			(pts
@@ -5289,7 +5290,7 @@
 			)
 			(fill solid)
 			(layer "F.Mask")
-			(uuid "637f1651-601b-4443-9f75-c755784f7df3")
+			(uuid "ac0f2f24-6c56-4408-87d7-f7706b18cff6")
 		)
 		(fp_line
 			(start 12.827 14.8336)
@@ -5299,7 +5300,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "da1a829e-b42d-434f-bb1b-3a56442e861e")
+			(uuid "116037a1-5418-48e7-b171-a5b1e430814a")
 		)
 		(fp_line
 			(start 12.827 9.959601)
@@ -5309,7 +5310,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3b689824-fa49-4328-a9d2-96786b12f89c")
+			(uuid "ce2bad47-d127-4059-9c6a-ce8c5466b01f")
 		)
 		(fp_line
 			(start 12.827 9.959601)
@@ -5319,7 +5320,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "53fa7f5b-b11f-4e06-a1f4-b5d2e3baf6c3")
+			(uuid "7689be4b-2b57-45ae-a9ef-0c37667fb80d")
 		)
 		(fp_line
 			(start 12.827 -9.959601)
@@ -5329,7 +5330,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7bf724ef-c2ce-48cc-82a1-2b4fc0f706ce")
+			(uuid "d939fc9b-b748-4d25-97ce-08b4f46c737d")
 		)
 		(fp_line
 			(start 12.827 -9.959601)
@@ -5339,7 +5340,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c948ed95-2bbb-4418-a1d6-4a51bbfbf5c3")
+			(uuid "794a92c0-fa5b-4076-84ad-2e6b9a214346")
 		)
 		(fp_line
 			(start 12.827 -14.8336)
@@ -5349,7 +5350,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8c5f5660-a4be-437d-af3f-d5e1d055d9b1")
+			(uuid "b9f7e31d-52dd-4743-9d1f-76f411698910")
 		)
 		(fp_line
 			(start 7.2096 14.8336)
@@ -5359,7 +5360,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7e353b42-12bc-4f55-99a6-95c0d16ddc06")
+			(uuid "4d2ee07f-1362-47f4-8412-f4fe7627ab31")
 		)
 		(fp_line
 			(start 7.2096 14.8336)
@@ -5369,7 +5370,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "633a061b-3362-4010-963a-6a189f53e428")
+			(uuid "8b5dce5c-32cd-4226-8fd6-3e183752d5c5")
 		)
 		(fp_line
 			(start 7.2096 -14.8336)
@@ -5379,7 +5380,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dea08c2b-1ba8-4247-a5c1-b31042e123de")
+			(uuid "3bedbb25-5c3d-472a-83e7-d96c70cbca6c")
 		)
 		(fp_line
 			(start 7.2096 -14.8336)
@@ -5389,7 +5390,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "19c948df-0d86-45c6-9699-30814a4f3f53")
+			(uuid "84da6211-c0e3-474a-be2b-508bee6c4b11")
 		)
 		(fp_line
 			(start -7.2096 14.8336)
@@ -5399,7 +5400,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5865c173-80a1-427c-95cf-7ad354c5e2f7")
+			(uuid "45678554-d99f-42a3-8eb8-046f86c4cca8")
 		)
 		(fp_line
 			(start -7.2096 14.8336)
@@ -5409,7 +5410,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bb07fb8d-267b-40fa-9fa5-53f0ec1a7d6d")
+			(uuid "34cbeaf2-d7a7-49ab-ba30-79113739505e")
 		)
 		(fp_line
 			(start -7.2096 -14.8336)
@@ -5419,7 +5420,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ecfb7b4b-1302-4ea8-afe9-aa168ca444e3")
+			(uuid "eb44aeaa-144d-4493-b6b6-7f819802e76c")
 		)
 		(fp_line
 			(start -7.2096 -14.8336)
@@ -5429,7 +5430,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2b878592-bbc2-49ff-a627-7eb7ecd7aea5")
+			(uuid "b6f17f74-448a-4e0d-96e0-d9d5567980b3")
 		)
 		(fp_line
 			(start -12.827 14.8336)
@@ -5439,7 +5440,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "96136785-33e5-483f-a62c-050156240f07")
+			(uuid "3757eecc-c3d0-4810-a29e-3700c4385cee")
 		)
 		(fp_line
 			(start -12.827 9.959601)
@@ -5449,7 +5450,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bedf8199-cc9b-48af-8776-88081330cb01")
+			(uuid "5f035d60-0f2b-43c1-9018-3133f7620d51")
 		)
 		(fp_line
 			(start -12.827 9.959601)
@@ -5459,7 +5460,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "536a7585-942e-4a3c-b06f-f52493e3fdfc")
+			(uuid "93882655-7a30-4d54-8f7f-0679e7941338")
 		)
 		(fp_line
 			(start -12.827 -9.959601)
@@ -5469,7 +5470,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9735d194-04a5-4e53-8c40-31cfef3061bb")
+			(uuid "5d9e42de-6cbf-40f2-9a13-c659a7df952c")
 		)
 		(fp_line
 			(start -12.827 -9.959601)
@@ -5479,7 +5480,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3a2bd9d9-b573-4ae6-9fc2-1cd6f98127c1")
+			(uuid "b4fd67da-a539-4c52-bffa-2f95585d639f")
 		)
 		(fp_line
 			(start -12.827 -14.8336)
@@ -5489,7 +5490,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "46a52ad6-a5de-489e-9644-4d52dc5f1d18")
+			(uuid "10789345-355d-422c-852f-f0217b0ae7a5")
 		)
 		(fp_line
 			(start 12.573 14.5796)
@@ -5499,7 +5500,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d74d6100-9b4d-417d-889e-3f3a060fb036")
+			(uuid "cb60dc72-bb4c-41d4-b4d8-d1747df244f4")
 		)
 		(fp_line
 			(start 12.573 -14.5796)
@@ -5509,7 +5510,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f515791f-ba69-4769-899b-e10bbff54e4e")
+			(uuid "cf25308c-8992-4644-85fb-c29332765b5c")
 		)
 		(fp_line
 			(start -12.573 14.5796)
@@ -5519,7 +5520,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "11840054-f6d7-4d13-8c62-a246725d67f0")
+			(uuid "fec7c7b4-d232-440f-83ba-87c50faffd3e")
 		)
 		(fp_line
 			(start -12.573 -13.3096)
@@ -5529,7 +5530,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4a84f331-bed6-4e7d-b097-a3a93ccf9239")
+			(uuid "7672c3fe-7c81-4e23-b542-d9d2e593d70d")
 		)
 		(fp_line
 			(start -12.573 -14.5796)
@@ -5539,12 +5540,13 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e65d943a-5d2c-41b3-8290-afef63012fb0")
+			(uuid "bf8d42c5-d1fb-4380-9a21-829a41d2f314")
 		)
 		(fp_text user "*"
 			(at -10.3815 -9.350001 180)
+			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "58daae8f-e0a0-41a7-ace0-7a1b41ff5ca4")
+			(uuid "d6f52778-02a9-4db7-9b50-26c680b959fa")
 			(effects
 				(font
 					(size 1 1)
@@ -5554,9 +5556,20 @@
 		)
 		(fp_text user "*"
 			(at -10.3815 -9.350001 180)
-			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "ea6ee6ac-3f33-478a-8656-0aedbcbf822e")
+			(uuid "f74254e4-38a9-4eeb-8096-8b00654e6028")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -7.9685 -9.350001 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "018c2c41-ea71-4eaf-b1f6-92c95fe74dcc")
 			(effects
 				(font
 					(size 1 1)
@@ -5568,19 +5581,7 @@
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "1fae5bc1-3eac-4809-a93c-e279d1f1acb8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "*"
-			(at -7.9685 -9.350001 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "38829bc3-0a4d-41b6-b694-21669eef4f51")
+			(uuid "5d142cad-f68d-4a41-9e2f-30155b79983d")
 			(effects
 				(font
 					(size 1 1)
@@ -5591,7 +5592,7 @@
 		(fp_text user "*"
 			(at -7.9685 -9.350001 180)
 			(layer "F.Fab")
-			(uuid "5a6f1741-56a4-4eb7-89a4-83cbe5fe31b7")
+			(uuid "d82f633a-22f0-4f3e-950c-308c68a6f9b7")
 			(effects
 				(font
 					(size 1 1)
@@ -5606,7 +5607,7 @@
 			(net 39 "unconnected-(U2A-NC-Pad1)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "9c55bc65-9cf7-45c1-ac0b-ee46014d3639")
+			(uuid "1e646f3e-362b-48d7-91e3-56cef858d4c8")
 		)
 		(pad "2" smd rect
 			(at -9.175001 -8.600001 180)
@@ -5615,7 +5616,7 @@
 			(net 42 "unconnected-(U2A-NC-Pad2)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "7a9cdd9a-685c-4fed-8555-0857c57f940e")
+			(uuid "b9b34a29-05c2-4f07-bff2-a9a6a33573a1")
 		)
 		(pad "3" smd rect
 			(at -9.175001 -7.500001 180)
@@ -5624,7 +5625,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "5bbe6540-90a8-499a-96bc-59f84fe48c15")
+			(uuid "8b88ba91-4b69-4ebf-805a-2fcaa087a076")
 		)
 		(pad "4" smd rect
 			(at -9.175001 -6.400001 180)
@@ -5633,7 +5634,7 @@
 			(net 54 "unconnected-(U2A-PCM_CLK-Pad4)")
 			(pinfunction "PCM_CLK")
 			(pintype "unspecified")
-			(uuid "009888cd-2036-419f-a6f4-8400bb8ea764")
+			(uuid "26f083f9-c29f-4960-b7ae-cc715ee58d02")
 		)
 		(pad "5" smd rect
 			(at -9.175001 -5.3 180)
@@ -5642,7 +5643,7 @@
 			(net 11 "unconnected-(U2A-PCM_SYNC-Pad5)")
 			(pinfunction "PCM_SYNC")
 			(pintype "unspecified")
-			(uuid "10f9c3cd-a925-4a88-ac7d-f2668b8957ac")
+			(uuid "efcb0af8-492f-4f09-bed9-3b9adaba1d26")
 		)
 		(pad "6" smd rect
 			(at -9.175001 -4.2 180)
@@ -5651,7 +5652,7 @@
 			(net 14 "unconnected-(U2A-PCM_DIN-Pad6)")
 			(pinfunction "PCM_DIN")
 			(pintype "unspecified")
-			(uuid "fbf19a65-ac40-474e-888a-034382ef514b")
+			(uuid "0251fb76-f548-4e78-9078-bd3b265e17fd")
 		)
 		(pad "7" smd rect
 			(at -9.175001 -3.1 180)
@@ -5660,7 +5661,7 @@
 			(net 18 "unconnected-(U2A-PCM_DOUT-Pad7)")
 			(pinfunction "PCM_DOUT")
 			(pintype "output")
-			(uuid "d1291de7-15b3-4d63-a906-6e8c4d9df571")
+			(uuid "c155ed30-0de6-41b3-8466-1ecc2aceba83")
 		)
 		(pad "8" smd rect
 			(at -9.175001 -1.999999 180)
@@ -5669,7 +5670,7 @@
 			(net 1 "VBUS")
 			(pinfunction "USB_VBUS")
 			(pintype "unspecified")
-			(uuid "444d4458-5eb6-41c8-8541-4d73fcfcddec")
+			(uuid "81cc4449-67a3-49ba-9d81-3b0323fc549c")
 		)
 		(pad "9" smd rect
 			(at -9.175001 -0.899999 180)
@@ -5678,7 +5679,7 @@
 			(net 60 "USB_DP")
 			(pinfunction "USB_DP")
 			(pintype "unspecified")
-			(uuid "1c097648-884b-4ce0-b28b-5a73f3515e10")
+			(uuid "09c6901d-35ba-4fd1-bb8b-41ce6ce2cdcd")
 		)
 		(pad "10" smd rect
 			(at -9.175001 0.200001 180)
@@ -5687,7 +5688,7 @@
 			(net 59 "USB_DN")
 			(pinfunction "USB_DM")
 			(pintype "unspecified")
-			(uuid "fc723969-bd7e-4416-8e39-9ee9eafd8160")
+			(uuid "97f7928f-2f49-4d8c-ab03-8d9deb3e712b")
 		)
 		(pad "11" smd rect
 			(at -9.175001 1.900002 180)
@@ -5696,7 +5697,7 @@
 			(net 35 "unconnected-(U2A-NC-Pad11)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "8dd7c999-cbfe-4019-9846-7ad57b961f3b")
+			(uuid "95036d54-2284-4203-86e6-ffff79b39158")
 		)
 		(pad "12" smd rect
 			(at -9.175001 3 180)
@@ -5705,7 +5706,7 @@
 			(net 37 "unconnected-(U2A-NC-Pad12)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "962b25bc-7dd8-447d-88ee-947445c7f3c3")
+			(uuid "60cde132-5be8-468c-b3d7-b057f6d8e6e7")
 		)
 		(pad "13" smd rect
 			(at -9.175001 4.1 180)
@@ -5714,7 +5715,7 @@
 			(net 23 "unconnected-(U2A-NC-Pad13)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "abce13d4-917a-4f39-82e2-6b4ec185b2cd")
+			(uuid "1f38129a-51a3-451a-b224-4034a294a00b")
 		)
 		(pad "14" smd rect
 			(at -9.175001 5.2 180)
@@ -5723,7 +5724,7 @@
 			(net 24 "unconnected-(U2A-NC-Pad14)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "0f51ad4d-42af-44b3-9cdf-dcd8ac433ba6")
+			(uuid "4612d485-0bb4-4475-99eb-c25898628b7f")
 		)
 		(pad "15" smd rect
 			(at -9.175001 6.300001 180)
@@ -5732,7 +5733,7 @@
 			(net 66 "MODEM_PWRKEY")
 			(pinfunction "PWRKEY")
 			(pintype "unspecified")
-			(uuid "ec282671-1845-42d0-ade1-29b6f6952606")
+			(uuid "fe9543fe-5985-4a7f-8f58-0645459dff15")
 		)
 		(pad "16" smd rect
 			(at -9.175001 7.400001 180)
@@ -5741,7 +5742,7 @@
 			(net 44 "unconnected-(U2A-NC-Pad16)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "9c5f30bc-f07c-4a15-9f25-5c630a9991b3")
+			(uuid "efba5e4e-fda6-47b8-9359-c18dbf7f32bc")
 		)
 		(pad "17" smd rect
 			(at -9.175001 8.500001 180)
@@ -5750,7 +5751,7 @@
 			(net 69 "MODEM_RESET")
 			(pinfunction "RESET_N")
 			(pintype "unspecified")
-			(uuid "54adad31-1c61-4b41-84ec-c6f4bdd472d9")
+			(uuid "a32298f5-e248-4afe-952b-87f10e1155b4")
 		)
 		(pad "18" smd rect
 			(at -9.175001 9.600002 180)
@@ -5759,7 +5760,7 @@
 			(net 25 "unconnected-(U2A-RESERVED-Pad18)")
 			(pinfunction "RESERVED")
 			(pintype "no_connect")
-			(uuid "0db46e4e-8ce0-4405-94ea-00649eeaef61")
+			(uuid "108672a6-5a27-42bc-aedc-738a51cbe74e")
 		)
 		(pad "19" smd rect
 			(at -7.45 11.025 270)
@@ -5768,7 +5769,7 @@
 			(net 43 "unconnected-(U2A-AP_READY-Pad19)")
 			(pinfunction "AP_READY")
 			(pintype "unspecified")
-			(uuid "d3bd1084-7127-4cd6-8318-bbfa03510bcb")
+			(uuid "fc051bfb-3008-4961-a7e3-35a2ad5c58b8")
 		)
 		(pad "20" smd rect
 			(at -6.349999 11.025 270)
@@ -5777,7 +5778,7 @@
 			(net 65 "MODEM_STATUS")
 			(pinfunction "STATUS")
 			(pintype "unspecified")
-			(uuid "23a79729-dc3c-41aa-95be-3d1e26f96512")
+			(uuid "13ea098f-808a-466c-b2c3-ba8f24dc490b")
 		)
 		(pad "21" smd rect
 			(at -5.249999 11.025 270)
@@ -5786,7 +5787,7 @@
 			(net 63 "MODEM_NETLIGHT")
 			(pinfunction "NETLIGHT")
 			(pintype "unspecified")
-			(uuid "5c4425cc-323f-4061-b408-56e1cf0253c5")
+			(uuid "9868ebb6-d663-4311-a776-87c78dc4c0e7")
 		)
 		(pad "22" smd rect
 			(at -4.150001 11.025 270)
@@ -5795,7 +5796,7 @@
 			(net 68 "DEBUG_RX_1V8")
 			(pinfunction "DBG_RXD")
 			(pintype "unspecified")
-			(uuid "b0ed11ed-57e3-4e21-b877-202c2caf4544")
+			(uuid "b63ee701-73d1-4e19-b2d4-3c8db66638e3")
 		)
 		(pad "23" smd rect
 			(at -3.050001 11.025 270)
@@ -5804,7 +5805,7 @@
 			(net 67 "DEBUG_TX_1V8")
 			(pinfunction "DBG_TXD")
 			(pintype "unspecified")
-			(uuid "8502e9fa-b751-4133-ac05-f26c61586a08")
+			(uuid "dc0e1215-65c9-40d6-be8a-4c555f80bc13")
 		)
 		(pad "24" smd rect
 			(at -1.95 11.025 270)
@@ -5813,7 +5814,7 @@
 			(net 53 "unconnected-(U2A-ADC0-Pad24)")
 			(pinfunction "ADC0")
 			(pintype "unspecified")
-			(uuid "634224c2-2a19-4948-9abc-d4d275bff2af")
+			(uuid "e232dfe8-10b5-4c81-af92-4d21ea2fe1d2")
 		)
 		(pad "25" smd rect
 			(at 0.55 11.025 270)
@@ -5822,7 +5823,7 @@
 			(net 12 "unconnected-(U2A-RESERVED-Pad25)")
 			(pinfunction "RESERVED")
 			(pintype "no_connect")
-			(uuid "781a5799-9e87-48ef-982c-1d45f189f180")
+			(uuid "222e2b2d-d22e-4e32-8b20-759fd4beaabb")
 		)
 		(pad "26" smd rect
 			(at 1.65 11.025 270)
@@ -5831,7 +5832,7 @@
 			(net 38 "unconnected-(U2A-SPI_CLK-Pad26)")
 			(pinfunction "SPI_CLK")
 			(pintype "unspecified")
-			(uuid "d5525768-3570-42ba-8a72-6ffd9893abd5")
+			(uuid "f259e3b0-0003-4da1-b999-9a6576cd1278")
 		)
 		(pad "27" smd rect
 			(at 2.750001 11.025 270)
@@ -5840,7 +5841,7 @@
 			(net 45 "unconnected-(U2A-SPI_MOSI-Pad27)")
 			(pinfunction "SPI_MOSI")
 			(pintype "unspecified")
-			(uuid "250c88d1-f1c5-4fc1-8423-0f8f067bfba5")
+			(uuid "7edc6336-3d67-4007-93b4-a85af8b15fda")
 		)
 		(pad "28" smd rect
 			(at 3.850001 11.025 270)
@@ -5849,7 +5850,7 @@
 			(net 31 "unconnected-(U2A-SPI_MISO-Pad28)")
 			(pinfunction "SPI_MISO")
 			(pintype "unspecified")
-			(uuid "bfbe4c5d-ad9d-4125-9b04-c9b9b4875f5f")
+			(uuid "c40a16dd-e567-4c3f-a1fa-70b495b791d8")
 		)
 		(pad "29" smd rect
 			(at 4.950001 11.025 270)
@@ -5858,7 +5859,7 @@
 			(net 80 "VDD_EXT")
 			(pinfunction "VDD_EXT")
 			(pintype "power_in")
-			(uuid "e514dfb5-ebe4-4e5d-b159-29872e1b6f20")
+			(uuid "6dfe2e69-1fd1-4f38-bb2a-d09c357adedb")
 		)
 		(pad "30" smd rect
 			(at 6.050002 11.025 270)
@@ -5867,7 +5868,7 @@
 			(net 64 "UART_RX_1V8")
 			(pinfunction "DTR")
 			(pintype "unspecified")
-			(uuid "b466fb3e-cddf-4635-9588-91089351bc11")
+			(uuid "9bf9f43e-106f-4ab5-abb4-e42dc55b2c4a")
 		)
 		(pad "31" smd rect
 			(at 7.150002 11.025 270)
@@ -5876,7 +5877,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "f2285b61-0754-40d1-babf-3eb9816f71bd")
+			(uuid "c9c90b29-7948-436f-80fa-1353981a8e05")
 		)
 		(pad "32" smd rect
 			(at 9.175001 9.600002 180)
@@ -5885,7 +5886,7 @@
 			(net 2 "+3V3")
 			(pinfunction "VBAT_BB")
 			(pintype "power_in")
-			(uuid "67518d98-3227-42bd-89ae-e8ad38592ecb")
+			(uuid "a619d882-fe58-473f-80a5-9e9ec6033836")
 		)
 		(pad "33" smd rect
 			(at 9.175001 8.500001 180)
@@ -5894,7 +5895,7 @@
 			(net 2 "+3V3")
 			(pinfunction "VBAT_BB")
 			(pintype "power_in")
-			(uuid "2c9f0f51-7110-4fff-a5c0-6ba9fe97374f")
+			(uuid "5869a202-bb81-47e3-9e2c-8224ac499f3a")
 		)
 		(pad "34" smd rect
 			(at 9.175001 7.400001 180)
@@ -5903,7 +5904,7 @@
 			(net 64 "UART_RX_1V8")
 			(pinfunction "RXD")
 			(pintype "unspecified")
-			(uuid "93d1edb5-d101-4dd9-ad63-a612b3f84c69")
+			(uuid "22c9a3d7-824a-4515-8999-d38dda8d4600")
 		)
 		(pad "35" smd rect
 			(at 9.175001 6.300001 180)
@@ -5912,7 +5913,7 @@
 			(net 62 "UART_TX_1V8")
 			(pinfunction "TXD")
 			(pintype "unspecified")
-			(uuid "3eb9959f-3e1c-4af4-ae45-4e3f91d5d37b")
+			(uuid "6616c442-b7c3-44b1-8bca-fdebe12fe6e2")
 		)
 		(pad "36" smd rect
 			(at 9.175001 5.2 180)
@@ -5921,7 +5922,7 @@
 			(net 40 "unconnected-(U2A-CTS-Pad36)")
 			(pinfunction "CTS")
 			(pintype "unspecified")
-			(uuid "f60da64a-4482-4f4c-8642-46e35638372f")
+			(uuid "87a4bc16-68c2-4b28-96e7-75a2e23143ce")
 		)
 		(pad "37" smd rect
 			(at 9.175001 4.1 180)
@@ -5930,7 +5931,7 @@
 			(net 36 "unconnected-(U2A-RTS-Pad37)")
 			(pinfunction "RTS")
 			(pintype "unspecified")
-			(uuid "c92d7484-7df5-4dd9-b2bd-7bdcb9062d7a")
+			(uuid "9942dae1-45a7-4c62-8137-772c4fb58e40")
 		)
 		(pad "38" smd rect
 			(at 9.175001 3 180)
@@ -5939,7 +5940,7 @@
 			(net 41 "unconnected-(U2A-DCD-Pad38)")
 			(pinfunction "DCD")
 			(pintype "unspecified")
-			(uuid "e488b047-4a4c-470b-b5a6-8cdfada89259")
+			(uuid "28ebe566-6bab-4e14-a2f8-36ed31a437b3")
 		)
 		(pad "39" smd rect
 			(at 9.175001 1.899999 180)
@@ -5948,7 +5949,7 @@
 			(net 47 "unconnected-(U2A-RI-Pad39)")
 			(pinfunction "RI")
 			(pintype "unspecified")
-			(uuid "380be8b0-c700-492f-9c81-c0396bd6ffb1")
+			(uuid "52ef3d26-3c4b-43f2-ba7d-adbb5b8bf298")
 		)
 		(pad "40" smd rect
 			(at 9.175001 0.199999 180)
@@ -5957,7 +5958,7 @@
 			(net 29 "unconnected-(U2A-I2C_SCL-Pad40)")
 			(pinfunction "I2C_SCL")
 			(pintype "bidirectional")
-			(uuid "f671c33e-3277-429d-b10c-4e15a4ab735f")
+			(uuid "1c8985b4-fc25-4922-ae5a-e44be71e3d7d")
 		)
 		(pad "41" smd rect
 			(at 9.175001 -0.900001 180)
@@ -5966,7 +5967,7 @@
 			(net 32 "unconnected-(U2A-I2C_SDA-Pad41)")
 			(pinfunction "I2C_SDA")
 			(pintype "bidirectional")
-			(uuid "61530a7e-0baa-4a55-96fa-b109206c1d5a")
+			(uuid "a160a5f4-1a4f-4dc9-8991-79a476cf6ead")
 		)
 		(pad "42" smd rect
 			(at 9.175001 -1.999999 180)
@@ -5975,7 +5976,7 @@
 			(net 85 "MODEM_USIM_PRESENCE")
 			(pinfunction "USIM1_PRESENCE")
 			(pintype "bidirectional")
-			(uuid "68864009-d73e-4d79-b2cf-daa23be033f5")
+			(uuid "3d2e2d71-4ada-4048-8416-8f9f2f3cebc4")
 		)
 		(pad "43" smd rect
 			(at 9.175001 -3.1 180)
@@ -5984,7 +5985,7 @@
 			(net 3 "MODEM_USIM_VDD")
 			(pinfunction "USIM1_VDD")
 			(pintype "power_in")
-			(uuid "5dc02e58-e5f5-46f7-8ad2-0eadf05ff18f")
+			(uuid "4e83ad38-b554-4b4f-8347-0412fdcdec01")
 		)
 		(pad "44" smd rect
 			(at 9.175001 -4.2 180)
@@ -5993,7 +5994,7 @@
 			(net 58 "MODEM_USIM_RST")
 			(pinfunction "USIM1_RST")
 			(pintype "bidirectional")
-			(uuid "c640ac50-0133-4b50-aad3-db3c7149d15a")
+			(uuid "6678ecc5-98cc-4309-975f-4885e11bd122")
 		)
 		(pad "45" smd rect
 			(at 9.175001 -5.3 180)
@@ -6002,7 +6003,7 @@
 			(net 57 "MODEM_USIM_DATA")
 			(pinfunction "USIM1_DATA")
 			(pintype "bidirectional")
-			(uuid "e97d8efd-64f0-49db-bc1e-0c880ac68b1f")
+			(uuid "4ac0e4d7-0eae-4a80-990d-76cf6baf630b")
 		)
 		(pad "46" smd rect
 			(at 9.175001 -6.400001 180)
@@ -6011,7 +6012,7 @@
 			(net 55 "MODEM_USIM_CLK")
 			(pinfunction "USIM1_CLK")
 			(pintype "bidirectional")
-			(uuid "e71cfcab-6d58-4de8-b606-a6240fe47bef")
+			(uuid "a9c08012-1fa6-43d5-aaee-7d2b63bfc60e")
 		)
 		(pad "47" smd rect
 			(at 9.175001 -7.500001 180)
@@ -6020,7 +6021,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "USIM_GND")
 			(pintype "power_out")
-			(uuid "9a2b8518-9a52-4f65-bec5-3a9684c4e595")
+			(uuid "efa9042c-368e-4bbb-a459-c859c5e15d84")
 		)
 		(pad "48" smd rect
 			(at 9.175001 -8.600001 180)
@@ -6029,7 +6030,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "7fc8ba4b-8560-49b0-a1a2-ca4d2e130270")
+			(uuid "5f266fe7-d214-402a-bda2-b4c7961a8247")
 		)
 		(pad "49" smd rect
 			(at 9.175001 -9.700002 180)
@@ -6038,7 +6039,7 @@
 			(net 76 "Net-(U2A-ANT_GNSS{slash}ANT_DIV)")
 			(pinfunction "ANT_GNSS/ANT_DIV")
 			(pintype "unspecified")
-			(uuid "a5eaeff4-3905-41db-80e0-733044ebe36c")
+			(uuid "e5a7b534-83f9-4f26-b591-c78d20cede30")
 		)
 		(pad "50" smd rect
 			(at 7.15 -11.025 270)
@@ -6047,7 +6048,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "e67d3847-7822-4cbf-9d92-0c65acb493bd")
+			(uuid "d09a9632-55a5-481c-9719-f3784418056b")
 		)
 		(pad "51" smd rect
 			(at 6.049999 -11.025 270)
@@ -6056,7 +6057,7 @@
 			(net 52 "unconnected-(U2A-NC-Pad51)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "d3295ac5-7d89-4a9a-a540-441f4d1e602f")
+			(uuid "b884a94b-ab36-45d6-81ac-ead3af9b7f65")
 		)
 		(pad "52" smd rect
 			(at 4.949999 -11.025 270)
@@ -6065,7 +6066,7 @@
 			(net 2 "+3V3")
 			(pinfunction "VBAT_RF")
 			(pintype "power_in")
-			(uuid "28f2814c-34f8-4148-944a-c1b227e20b93")
+			(uuid "f5b01a5a-7f8c-48a5-837e-c5dec220b82f")
 		)
 		(pad "53" smd rect
 			(at 3.850001 -11.025 270)
@@ -6074,7 +6075,7 @@
 			(net 2 "+3V3")
 			(pinfunction "VBAT_RF")
 			(pintype "power_in")
-			(uuid "830aa140-dcf4-40c1-a013-a8055ff24533")
+			(uuid "5b936c9a-7057-4aa4-91c0-ad25c29d90b7")
 		)
 		(pad "54" smd rect
 			(at 2.750001 -11.025 270)
@@ -6083,7 +6084,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "71062543-f192-426a-bcf0-0e2f6efd668a")
+			(uuid "98a26373-cc5f-4671-b8ef-59af5479f526")
 		)
 		(pad "55" smd rect
 			(at 1.65 -11.025 270)
@@ -6092,7 +6093,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "231f5dd2-3173-4e55-8322-c049d07b23f6")
+			(uuid "c8a99b92-04ba-44f2-bbce-4f5352972285")
 		)
 		(pad "56" smd rect
 			(at 0.55 -11.025 270)
@@ -6101,7 +6102,7 @@
 			(net 79 "Net-(U2B-ANT_DIV)")
 			(pinfunction "ANT_DIV")
 			(pintype "unspecified")
-			(uuid "39994433-e7f0-4de3-af2d-7e54ab89c6de")
+			(uuid "fa77c805-1a0f-4009-9403-284e40a99800")
 		)
 		(pad "57" smd rect
 			(at -1.95 -11.025 270)
@@ -6110,7 +6111,7 @@
 			(net 16 "unconnected-(U2B-NC-Pad57)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "12382492-80e0-4e1d-b20b-54d0c50b7977")
+			(uuid "0d7a0286-fd02-4ff2-8630-9118c2c81e36")
 		)
 		(pad "58" smd rect
 			(at -3.050001 -11.025 270)
@@ -6119,7 +6120,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "b75f9edd-ae78-4dda-9d34-1951cad0c176")
+			(uuid "822827ed-5531-40df-9097-5d1dea0a687e")
 		)
 		(pad "59" smd rect
 			(at -4.150001 -11.025 270)
@@ -6128,7 +6129,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "67f1f64a-b7f8-4925-a0b1-93a4598d0e1f")
+			(uuid "8f6319a7-a46d-458d-85d5-03ad1283aee2")
 		)
 		(pad "60" smd rect
 			(at -5.250001 -11.025 270)
@@ -6137,7 +6138,7 @@
 			(net 77 "Net-(U2B-ANT_MAIN)")
 			(pinfunction "ANT_MAIN")
 			(pintype "unspecified")
-			(uuid "e47a5ad6-cd19-487d-850d-dc837494ac40")
+			(uuid "35b11f75-0d16-4a6a-9fd3-c730accf155f")
 		)
 		(pad "61" smd rect
 			(at -6.350002 -11.025 270)
@@ -6146,7 +6147,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "a29ad79b-658f-499e-bee2-0e53a07f57b8")
+			(uuid "bd0acb13-5a5e-4467-9671-ef65ca93f5d6")
 		)
 		(pad "62" smd rect
 			(at -7.450002 -11.025 270)
@@ -6155,7 +6156,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "8fc94f42-76e1-47f3-9a89-2634532ce407")
+			(uuid "4c17d427-bb05-4cdb-b1b0-fa324d66b5a2")
 		)
 		(pad "63" smd rect
 			(at -5.950204 -4.250182 180)
@@ -6164,7 +6165,7 @@
 			(net 9 "unconnected-(U2B-NC-Pad63)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "1fe95642-e6b7-4987-91ac-0b3e4f06f95e")
+			(uuid "56984df5-3abd-4bf0-ae20-9bde541e0a79")
 		)
 		(pad "64" smd rect
 			(at -5.950204 -2.55016 180)
@@ -6173,7 +6174,7 @@
 			(net 15 "unconnected-(U2B-NC-Pad64)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "2ece3552-0f05-49ae-95e9-80b3d68bb33f")
+			(uuid "5e57f02c-78d7-4340-8da5-c076ac7dac40")
 		)
 		(pad "65" smd rect
 			(at -5.950204 -0.850138 180)
@@ -6182,7 +6183,7 @@
 			(net 30 "unconnected-(U2B-NC-Pad65)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "2c6624d2-6ad8-4657-a305-63440586a0a5")
+			(uuid "639adc12-ed6a-4c78-9b1d-b590543e552d")
 		)
 		(pad "66" smd rect
 			(at -5.950204 0.849884 180)
@@ -6191,7 +6192,7 @@
 			(net 26 "unconnected-(U2B-NC-Pad66)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "e77ab101-1a32-404c-8986-738b319a68d1")
+			(uuid "2c3a4f7b-5154-4de0-9958-ad3489c087ba")
 		)
 		(pad "67" smd rect
 			(at -5.950204 2.549906 180)
@@ -6200,7 +6201,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "5c4f0acf-a407-4032-8dc2-aa77f6b267a0")
+			(uuid "e1b84aa4-65cd-427a-a6f0-e9040964ecf9")
 		)
 		(pad "68" smd rect
 			(at -5.950204 4.249928 180)
@@ -6209,7 +6210,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "188d4cab-123e-4443-9e77-352523a7751e")
+			(uuid "e1f9b340-cd17-435d-8648-013c388c6fda")
 		)
 		(pad "69" smd rect
 			(at -2.55016 7.649972 180)
@@ -6218,7 +6219,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "4c12f9a9-13bb-46b0-addb-220c330cc994")
+			(uuid "1f291683-f747-4672-ad04-f6ae36681e14")
 		)
 		(pad "70" smd rect
 			(at -0.850138 7.649972 180)
@@ -6227,7 +6228,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "1ff98a57-35d2-4e73-a8ae-11f05a4e97d4")
+			(uuid "2a9f9b16-cef2-435a-95f5-17d97890a14b")
 		)
 		(pad "71" smd rect
 			(at 0.850138 7.649972 180)
@@ -6236,7 +6237,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "3e6b7286-b16d-4c2d-a5eb-968db907ad4c")
+			(uuid "f35f4f44-4576-4a2a-b7ba-485c7082f80c")
 		)
 		(pad "72" smd rect
 			(at 2.55016 7.649972 180)
@@ -6245,7 +6246,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "5518205c-00be-46c9-b781-0a2419e50100")
+			(uuid "900bfea8-9513-472c-ac8f-d74fb00920e4")
 		)
 		(pad "73" smd rect
 			(at 5.950204 4.249928 180)
@@ -6254,7 +6255,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "2a2b9256-c6af-4ff1-8fed-ff3229eaee62")
+			(uuid "6bd51866-e76d-439e-9cac-c27c8e7c2008")
 		)
 		(pad "74" smd rect
 			(at 5.950204 2.549906 180)
@@ -6263,7 +6264,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "c9fb62eb-0982-42f6-94ef-378f750859c5")
+			(uuid "d08e2f28-4e33-452f-a341-c2cd512cb969")
 		)
 		(pad "75" smd rect
 			(at 5.950204 0.849884 180)
@@ -6272,7 +6273,7 @@
 			(net 27 "unconnected-(U2B-USB_BOOT-Pad75)")
 			(pinfunction "USB_BOOT")
 			(pintype "unspecified")
-			(uuid "1e7f2399-2573-4ddb-a25d-b107c30cc48a")
+			(uuid "91ad1d7e-a8ad-4457-8549-78fcb43845f7")
 		)
 		(pad "76" smd rect
 			(at 5.950204 -0.850138 180)
@@ -6281,7 +6282,7 @@
 			(net 8 "unconnected-(U2B-NC-Pad76)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "9ab578dd-8376-430d-8cfe-13c6282d6081")
+			(uuid "2cde75f0-5be2-4e5d-8679-a57b6c624b4f")
 		)
 		(pad "77" smd rect
 			(at 5.950204 -2.55016 180)
@@ -6290,7 +6291,7 @@
 			(net 19 "unconnected-(U2B-NC-Pad77)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "310a758c-2738-4fb3-9431-89473c141fd4")
+			(uuid "bde538d3-6961-4bbd-a700-7c30440025d4")
 		)
 		(pad "78" smd rect
 			(at 5.950204 -4.250182 180)
@@ -6299,7 +6300,7 @@
 			(net 50 "unconnected-(U2B-NC-Pad78)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "84bfd9e9-1929-4bc4-9f7d-45efdd6c7058")
+			(uuid "c3c656cd-1349-491b-b159-7c1fb09a162c")
 		)
 		(pad "79" smd rect
 			(at 2.55016 -7.650226 180)
@@ -6308,7 +6309,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "b836fde0-e562-42de-9c03-0b8064076b81")
+			(uuid "3c5d647a-71bd-4520-9b0d-16094173db3d")
 		)
 		(pad "80" smd rect
 			(at 0.850138 -7.650226 180)
@@ -6317,7 +6318,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "b90bfc18-c56d-42fc-9a3c-d3ef075af83e")
+			(uuid "d7f60e0e-f256-4323-8d50-ee1f52a047e8")
 		)
 		(pad "81" smd rect
 			(at -0.850138 -7.650226 180)
@@ -6326,7 +6327,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "2c0f9cc4-681a-46b1-ae08-47f900c581eb")
+			(uuid "df31dda1-7b11-48c2-b76f-25a44d20859d")
 		)
 		(pad "82" smd rect
 			(at -2.55016 -7.650226 180)
@@ -6335,7 +6336,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "5d7c1f99-12be-4bbc-a44d-85ecc6fd292f")
+			(uuid "f5c2e6cd-e967-4058-8200-701eb3d95aa6")
 		)
 		(pad "83" smd rect
 			(at -4.249928 -4.250182 180)
@@ -6344,7 +6345,7 @@
 			(net 22 "unconnected-(U2B-USIM2_PRESENCE-Pad83)")
 			(pinfunction "USIM2_PRESENCE")
 			(pintype "bidirectional")
-			(uuid "76602d28-c335-4ab1-9913-dd986bb1889d")
+			(uuid "773f71f0-6ca7-49b9-a7d8-457f2e4c125c")
 		)
 		(pad "84" smd rect
 			(at -4.249928 -2.55016 180)
@@ -6353,7 +6354,7 @@
 			(net 51 "unconnected-(U2B-USIM2_CLK-Pad84)")
 			(pinfunction "USIM2_CLK")
 			(pintype "bidirectional")
-			(uuid "4dc6ff52-b6fb-4786-b424-41d508975018")
+			(uuid "c997498c-d357-4d6c-bfed-1cb4c63398b9")
 		)
 		(pad "85" smd rect
 			(at -4.249928 -0.850138 180)
@@ -6362,7 +6363,7 @@
 			(net 28 "unconnected-(U2B-USIM2_RST-Pad85)")
 			(pinfunction "USIM2_RST")
 			(pintype "bidirectional")
-			(uuid "83ce1ce4-d360-4080-b48b-5217938a9124")
+			(uuid "82edf59c-5ad5-4f33-a352-3752089ac0fe")
 		)
 		(pad "86" smd rect
 			(at -4.249928 0.849884 180)
@@ -6371,7 +6372,7 @@
 			(net 49 "unconnected-(U2B-USIM2_DATA-Pad86)")
 			(pinfunction "USIM2_DATA")
 			(pintype "bidirectional")
-			(uuid "c5361570-0cbb-41e0-b2d8-834fb44db195")
+			(uuid "c8fb5997-5601-4edc-b255-218ed8900dfe")
 		)
 		(pad "87" smd rect
 			(at -4.249928 2.549906 180)
@@ -6380,7 +6381,7 @@
 			(net 21 "unconnected-(U2B-USIM2_VDD-Pad87)")
 			(pinfunction "USIM2_VDD")
 			(pintype "power_in")
-			(uuid "777190ce-38da-403b-8342-b92f9fea9ed1")
+			(uuid "18a5912f-be72-48e9-9bf6-448165fa5fe9")
 		)
 		(pad "88" smd rect
 			(at -4.249928 4.249928 180)
@@ -6389,7 +6390,7 @@
 			(net 33 "unconnected-(U2B-NC-Pad88)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "b3a38c0a-6fd4-4d7d-b5c4-2f8d03161834")
+			(uuid "559ff1d7-827d-48fd-a8c8-63c433102f70")
 		)
 		(pad "89" smd rect
 			(at -2.55016 5.950204 180)
@@ -6398,7 +6399,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "1f4c4732-5c52-4df3-b989-27fcf9156d7c")
+			(uuid "b2a07d20-f371-4ea0-b047-c2a5881f77d6")
 		)
 		(pad "90" smd rect
 			(at -0.850138 5.950204 180)
@@ -6407,7 +6408,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "31b47dee-b320-4235-9291-a7e6ec0ace91")
+			(uuid "354aa917-50c0-41eb-be5f-bf57467ae47c")
 		)
 		(pad "91" smd rect
 			(at 0.850138 5.950204 180)
@@ -6416,7 +6417,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "a36c4294-4331-44da-892d-6b463f6c7b21")
+			(uuid "befbfa57-24a5-40f1-a8d3-d70eca7c7ce4")
 		)
 		(pad "92" smd rect
 			(at 2.55016 5.950204 180)
@@ -6425,7 +6426,7 @@
 			(net 7 "unconnected-(U2B-NC-Pad92)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "8cf35225-f41a-46e4-b7b8-7b8d60f5deca")
+			(uuid "5aaaeb23-0320-456b-8445-94a952a2cc4a")
 		)
 		(pad "93" smd rect
 			(at 4.249928 4.249928 180)
@@ -6434,7 +6435,7 @@
 			(net 13 "unconnected-(U2B-NC-Pad93)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "0b30e4dd-443b-436b-a3a3-24ad07dbc769")
+			(uuid "a47cb2a7-5ff7-424d-b6de-a68dbd10e19e")
 		)
 		(pad "94" smd rect
 			(at 4.249928 2.549906 180)
@@ -6443,7 +6444,7 @@
 			(net 20 "unconnected-(U2B-NC-Pad94)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "2841b71c-fb96-41c4-875d-4ecd7726aae1")
+			(uuid "0e521f4c-5089-414e-a4c8-6ab9e47d6845")
 		)
 		(pad "95" smd rect
 			(at 4.249928 0.849884 180)
@@ -6452,7 +6453,7 @@
 			(net 17 "unconnected-(U2B-NC-Pad95)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "7297d847-a630-4194-816b-b3e3626208ff")
+			(uuid "aa4d5880-5268-4dca-ae1a-9b604aac992a")
 		)
 		(pad "96" smd rect
 			(at 4.249928 -0.850138 180)
@@ -6461,7 +6462,7 @@
 			(net 34 "unconnected-(U2B-NC-Pad96)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "a85bcf06-eeb0-4c54-ae9d-94144d6ba959")
+			(uuid "5d13e0e8-4f5d-454f-806d-54eb987eccd1")
 		)
 		(pad "97" smd rect
 			(at 4.249928 -2.55016 180)
@@ -6470,7 +6471,7 @@
 			(net 10 "unconnected-(U2B-NC-Pad97)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "9af0a5ff-4dc4-4c81-b166-49695371cd09")
+			(uuid "94949810-3cd6-4a30-bb8a-bbf43cf479bf")
 		)
 		(pad "98" smd rect
 			(at 4.249928 -4.250182 180)
@@ -6479,7 +6480,7 @@
 			(net 46 "unconnected-(U2B-NC-Pad98)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "4ec964a1-ffbb-4279-a640-1fc8bc09df66")
+			(uuid "90584e51-2b60-46a1-8679-a2047dd77526")
 		)
 		(pad "99" smd rect
 			(at 2.55016 -5.950204 180)
@@ -6488,7 +6489,7 @@
 			(net 48 "unconnected-(U2B-NC-Pad99)")
 			(pinfunction "NC")
 			(pintype "no_connect")
-			(uuid "cc232749-9f75-4d5f-9de4-1ee51e5f1460")
+			(uuid "b2077a3d-d3d2-4883-9020-f8e66b145224")
 		)
 		(pad "100" smd rect
 			(at 0.850138 -5.950204 180)
@@ -6497,7 +6498,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "879e734c-8a92-40fb-8a52-cc2537534ff2")
+			(uuid "b8fcbdee-f4ce-4295-aec2-c9b03374a8ec")
 		)
 		(pad "101" smd rect
 			(at -0.850138 -5.950204 180)
@@ -6506,7 +6507,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "91ee5f6d-88a3-4885-8d76-d905181c3aab")
+			(uuid "fe459892-f7c9-4ab4-9e4d-35a43da882e9")
 		)
 		(pad "102" smd rect
 			(at -2.55016 -5.950204 180)
@@ -6515,7 +6516,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "8f4da261-2f53-40b8-9eb5-c92608d76008")
+			(uuid "2cb547cc-e7c5-46ed-93c1-50ff8bc43936")
 		)
 		(pad "103" smd rect
 			(at -11.223 -13.2296 180)
@@ -6524,7 +6525,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "05761299-7fd8-4580-8ef4-60be370ddf89")
+			(uuid "43671fc5-9b77-4820-93d2-bfaf37f6a122")
 		)
 		(pad "104" smd rect
 			(at -11.223 13.2296 180)
@@ -6533,7 +6534,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "eccea841-edc0-4135-849c-3b35402adceb")
+			(uuid "ca94a9d1-c7a0-490d-b9d6-2722a6f40380")
 		)
 		(pad "105" smd rect
 			(at 11.223 13.2296 180)
@@ -6542,7 +6543,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "3994c76c-b3dc-49df-9b23-719a99ac49c3")
+			(uuid "354a7719-94c2-4042-aa64-1e25e0acc471")
 		)
 		(pad "106" smd rect
 			(at 11.223 -13.2296 180)
@@ -6551,7 +6552,7 @@
 			(net 56 "MODEM_USIM_GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "695eb93d-83ee-4c7a-9042-4edecead548b")
+			(uuid "fdc91f09-2d62-4637-a570-835b4887a723")
 		)
 		(model "Z:/GitHub/modem/lib/3d/EG95.step"
 			(offset
@@ -7131,7 +7132,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Sim Card"
+		(property "Value" "Sim slot"
 			(at 0 -1 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13135,7 +13136,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R8"
-			(at -1.75 0 0)
+			(at -0.025 0.875 0)
 			(layer "B.SilkS")
 			(uuid "79d29568-2d42-40a0-ab85-8133dfc6dc45")
 			(effects

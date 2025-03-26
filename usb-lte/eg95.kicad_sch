@@ -5349,7 +5349,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3b2a31f9-3842-4676-af15-f5e216681e0f")
 		(property "Reference" "C8"
@@ -5361,7 +5361,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 123.19 46.9962 0)
 			(effects
 				(font
@@ -5549,7 +5549,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "582dc9ae-c7b6-420b-82c2-34427595fb46")
 		(property "Reference" "C10"
@@ -5561,7 +5561,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 176.53 62.2362 0)
 			(effects
 				(font
@@ -5630,7 +5630,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Small"
+		(property "Value" "0R"
 			(at 129.54 40.64 90)
 			(effects
 				(font
@@ -6421,7 +6421,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Small"
+		(property "Value" "0R"
 			(at 180.34 78.74 90)
 			(effects
 				(font
@@ -7536,7 +7536,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "cee2739b-79de-4223-8ab6-fbfa0c5cddad")
 		(property "Reference" "C11"
@@ -7548,7 +7548,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 187.96 62.2362 0)
 			(effects
 				(font
@@ -7752,7 +7752,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Small"
+		(property "Value" "0R"
 			(at 180.34 55.88 90)
 			(effects
 				(font
@@ -7879,7 +7879,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ec826a7c-af1b-48d0-a759-3ad373ba3444")
 		(property "Reference" "C9"
@@ -7891,7 +7891,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 137.16 46.9962 0)
 			(effects
 				(font
@@ -7949,7 +7949,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f0e18ef3-479d-4f99-8c9b-a8c6ea9e7d8d")
 		(property "Reference" "C13"
@@ -7961,7 +7961,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 187.96 85.0962 0)
 			(effects
 				(font
@@ -8084,7 +8084,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fa41b1be-1fcb-416b-8840-a43416f5061c")
 		(property "Reference" "C12"
@@ -8096,7 +8096,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "NC"
 			(at 176.53 85.0962 0)
 			(effects
 				(font
