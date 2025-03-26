@@ -14,11 +14,11 @@ Size 26mm x 45mm, thickness 0.8mm, 4 layers, copper thickness 1oz 0.5oz 0.5oz 1o
 
 ### Compatible modem series comparison
 
-| Modem series | Cellular standards | Downlink speed | Uplink speed | Cost |
-|--------------|--------------------|----------------|--------------|------|
-| EG95         | 4G, 3G, 2G         | 150 Mb/s       |  50 Mb/s     | $$   |
-| EG91         | 4G, 2G             |  10 Mb/s       |   5 Mb/s     | $    |
-| BG96         | Cat-M, Cat-NB1     | 375 Kb/s       | 375 Kb/s     | $$   |
+| Modem series | Cellular standards | Downlink speed | Uplink speed | Cost   |
+|--------------|--------------------|----------------|--------------|--------|
+| EG95         | 4G, 3G, 2G         | 150 Mb/s       |  50 Mb/s     | \$\$   |
+| EG91         | 4G, 2G             |  10 Mb/s       |   5 Mb/s     | \$     |
+| BG96         | Cat-M, Cat-NB1     | 375 Kb/s       | 375 Kb/s     | \$\$   |
 
 ### License
 This hardware design is licensed under [CERN-OHL-W V2 or later](License.txt).
