@@ -491,6 +491,7 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "Net-(C7-Pad1)": "RF trace",
       "Net-(J2-In)": "RF trace",
       "Net-(J3-In)": "RF trace",
       "Net-(J4-In)": "RF trace",
