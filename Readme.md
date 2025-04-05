@@ -10,7 +10,7 @@ The PCB is 15mm longer than a regular expansion card PCB, a case design is in th
 
 ### Board specifications
 
-Size 26mm x 45mm, thickness 0.8mm, 4 layers, copper thickness 1oz 0.5oz 0.5oz 1oz, impedance controlled board with 0.2mm prepeg
+Size 26mm x 45mm, thickness 0.8mm, 4 layers, copper thickness 1oz 0.5oz 0.5oz 1oz, impedance controlled board with 0.2mm prepreg
 
 ### Compatible modem series comparison
 
