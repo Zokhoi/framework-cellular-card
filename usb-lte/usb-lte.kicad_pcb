@@ -11322,7 +11322,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R12"
-			(at 0 1.8 0)
+			(at 1.8 0 0)
 			(layer "B.SilkS")
 			(uuid "589101c9-84eb-44b6-9513-9b7428281a82")
 			(effects
@@ -14482,7 +14482,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C15"
-			(at 0 1.95 0)
+			(at 1.8 0 0)
 			(layer "B.SilkS")
 			(uuid "acafa995-9b83-4266-9ecc-3c76290d19d2")
 			(effects
@@ -14701,7 +14701,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0.25 -1.45 90)
+			(at -2.3 0 90)
 			(layer "B.SilkS")
 			(uuid "263d3430-0655-42ed-b6c1-97a9050b25e3")
 			(effects
@@ -15358,7 +15358,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R8"
-			(at -0.65 0.925 90)
+			(at 1.675 0 90)
 			(layer "B.SilkS")
 			(uuid "79d29568-2d42-40a0-ab85-8133dfc6dc45")
 			(effects
@@ -16146,7 +16146,7 @@
 		)
 	)
 	(gr_text "5V"
-		(at 156.45 95.75 0)
+		(at 155.15 96.9 0)
 		(layer "B.SilkS")
 		(uuid "3c6077a6-4440-4576-b88c-991fc47f59e4")
 		(effects
@@ -20006,7 +20006,7 @@
 		(uuid "3161e60a-a896-49d1-a826-c339bc11882f")
 	)
 	(via
-		(at 152.25 98.425)
+		(at 152 98.55)
 		(size 0.6)
 		(drill 0.35)
 		(layers "F.Cu" "B.Cu")
