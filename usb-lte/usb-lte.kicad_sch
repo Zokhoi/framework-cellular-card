@@ -4739,6 +4739,28 @@
 			)
 		)
 	)
+	(global_label "MODEM_USIM_DATA"
+		(shape input)
+		(at 186.69 129.54 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "504fe87d-19af-46e7-9ca1-22fa6675c027")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.69 108.9563 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "UART_TX_5V"
 		(shape output)
 		(at 264.16 67.31 0)
@@ -4849,6 +4871,28 @@
 			)
 		)
 	)
+	(global_label "MODEM_USIM_VDD"
+		(shape input)
+		(at 191.77 129.54 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "94fb555c-8ced-45ec-affa-5a4519ffabd4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 191.77 109.7425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MODEM_USIM_RST"
 		(shape input)
 		(at 121.92 49.53 180)
@@ -4873,7 +4917,7 @@
 	)
 	(global_label "MODEM_USIM_PRESENCE"
 		(shape input)
-		(at 184.15 129.54 90)
+		(at 194.31 129.54 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4881,9 +4925,9 @@
 			)
 			(justify left)
 		)
-		(uuid "b93cb17a-0ead-49b7-a9e7-92e9a4b84683")
+		(uuid "b438657b-81c6-4c6e-b66a-b274ef2d54ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.15 103.5741 90)
+			(at 194.31 103.5741 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4917,7 +4961,7 @@
 	)
 	(global_label "MODEM_USIM_CLK"
 		(shape input)
-		(at 194.31 129.54 90)
+		(at 184.15 129.54 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4925,31 +4969,9 @@
 			)
 			(justify left)
 		)
-		(uuid "c3afcc2c-f99a-4e5f-8cf0-9c5ea3bd57a1")
+		(uuid "c2e4d1cb-6606-4361-b9a2-1a3a5f5126ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 194.31 109.803 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MODEM_USIM_DATA"
-		(shape input)
-		(at 191.77 129.54 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cc9329e1-4802-4065-a628-4ec961ba6be2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.77 108.9563 90)
+			(at 184.15 109.803 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4999,28 +5021,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MODEM_USIM_VDD"
-		(shape input)
-		(at 186.69 129.54 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dbbc110a-022d-49cd-ae96-59b319294fe8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 109.7425 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
