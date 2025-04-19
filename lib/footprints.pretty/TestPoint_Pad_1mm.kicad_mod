@@ -82,7 +82,7 @@
 	(pad "1" smd circle
 		(at 0 0)
 		(size 1 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(uuid "976d22a8-52ee-42db-8015-59e992097af1")
 	)
 )
