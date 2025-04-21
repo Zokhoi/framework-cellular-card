@@ -482,15 +482,15 @@
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "99af7010-596b-4197-99f8-7cfacb7239d9")
 	)
-	(model "${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Plug_Molex_105444.wrl"
+	(model "${KIPRJMOD}/../lib/3d/USB_C_Plug_Molex_105444.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 3.25 -0.45)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 90 0 0)
 		)
 	)
 )

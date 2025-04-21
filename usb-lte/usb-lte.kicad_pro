@@ -511,7 +511,7 @@
       "specctra_dsn": "",
       "step": "usb-lte.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "usb-lte.wrl"
     },
     "page_layout_descr_file": ""
   },

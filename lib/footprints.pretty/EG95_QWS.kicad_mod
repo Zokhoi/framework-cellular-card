@@ -1157,7 +1157,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "1c5d5c7a-2629-4cd7-8ee6-e1cc58e7c425")
 	)
-	(model "Z:/GitHub/modem/lib/3d/EG95.step"
+	(model "${KIPRJMOD}/../lib/3d/EG95.step"
 		(offset
 			(xyz 0 0 0)
 		)
