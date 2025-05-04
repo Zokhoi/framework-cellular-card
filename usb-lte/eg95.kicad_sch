@@ -1141,151 +1141,6 @@
 				)
 			)
 		)
-		(symbol "Switch:SW_Push"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 1.27 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SW_Push"
-				(at 0 -1.524 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Push button switch, generic, two pins"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch normally-open pushbutton push-button"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_Push_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Transistor_BJT:MBT3904DW1"
 			(pin_names
 				(offset 0) hide)
@@ -4034,12 +3889,6 @@
 		(uuid "2da03d4c-bd1c-4166-909c-61ea18fd3e27")
 	)
 	(junction
-		(at 67.31 179.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "30b9a314-930f-4149-ab2b-0b432cd1c9f9")
-	)
-	(junction
 		(at 276.86 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4274,12 +4123,6 @@
 		(uuid "bc120997-9115-48d2-b772-5a59c5b8ec78")
 	)
 	(junction
-		(at 41.91 179.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd671022-a13c-4fe5-91f7-121bebf38207")
-	)
-	(junction
 		(at 128.27 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4381,7 +4224,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 138.43) (xy 33.02 138.43)
+			(xy 27.94 135.89) (xy 33.02 135.89)
 		)
 		(stroke
 			(width 0)
@@ -4498,16 +4341,6 @@
 			(type default)
 		)
 		(uuid "1665d33f-e22b-438f-bf43-bc6ec2c77081")
-	)
-	(wire
-		(pts
-			(xy 67.31 179.07) (xy 71.12 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18891ca8-f75d-4b1c-815b-442789d285a0")
 	)
 	(wire
 		(pts
@@ -4631,6 +4464,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 172.72) (xy 63.5 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2459f913-120f-4355-8824-4df408a6e402")
+	)
+	(wire
+		(pts
 			(xy 135.89 133.35) (xy 139.7 133.35)
 		)
 		(stroke
@@ -4741,6 +4584,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 175.26) (xy 69.85 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33a882f1-e737-4cd5-aaf4-d23ca002d734")
+	)
+	(wire
+		(pts
 			(xy 129.54 86.36) (xy 110.49 86.36)
 		)
 		(stroke
@@ -4758,26 +4611,6 @@
 			(type default)
 		)
 		(uuid "37da021b-53f8-4fbc-b194-7c619ff5b5f2")
-	)
-	(wire
-		(pts
-			(xy 67.31 176.53) (xy 67.31 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38f30fa4-f49d-4281-8e31-4cff15f22c67")
-	)
-	(wire
-		(pts
-			(xy 41.91 176.53) (xy 41.91 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "399d4820-d2ba-40ff-b3f8-3107ebc82c0c")
 	)
 	(wire
 		(pts
@@ -4801,7 +4634,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 146.05) (xy 33.02 146.05)
+			(xy 27.94 148.59) (xy 33.02 148.59)
 		)
 		(stroke
 			(width 0)
@@ -5041,6 +4874,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 140.97) (xy 33.02 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6082982a-adf2-4d90-a094-f3c1ee7a7b03")
+	)
+	(wire
+		(pts
 			(xy 195.58 119.38) (xy 195.58 132.08)
 		)
 		(stroke
@@ -5058,16 +4901,6 @@
 			(type default)
 		)
 		(uuid "6a0c956f-1f64-4ee1-9426-eff35d735290")
-	)
-	(wire
-		(pts
-			(xy 63.5 179.07) (xy 67.31 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a31bda5-598c-46f3-91ae-24edcc26ac22")
 	)
 	(wire
 		(pts
@@ -5301,16 +5134,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 179.07) (xy 41.91 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ac02804-11b8-4aea-b890-9ccd7995c6f5")
-	)
-	(wire
-		(pts
 			(xy 276.86 83.82) (xy 276.86 106.68)
 		)
 		(stroke
@@ -5448,16 +5271,6 @@
 			(type default)
 		)
 		(uuid "9b9e788f-6462-4f89-9f5f-08961586e04f")
-	)
-	(wire
-		(pts
-			(xy 53.34 179.07) (xy 50.8 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c7f103c-d155-4701-bacc-671c74e6b0bd")
 	)
 	(wire
 		(pts
@@ -5631,13 +5444,13 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 179.07) (xy 45.72 179.07)
+			(xy 27.94 143.51) (xy 33.02 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b453017c-47c9-4721-b740-6db853c02ab3")
+		(uuid "b4afaebb-01e5-45aa-b9cc-651c7decfd81")
 	)
 	(wire
 		(pts
@@ -5901,7 +5714,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 148.59) (xy 33.02 148.59)
+			(xy 27.94 151.13) (xy 33.02 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5968,6 +5781,16 @@
 			(type default)
 		)
 		(uuid "dca63538-cb43-4585-9f67-9d4a43bac0f7")
+	)
+	(wire
+		(pts
+			(xy 53.34 172.72) (xy 58.42 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfcfa1a4-6f25-4f2e-b83f-947f70842e5f")
 	)
 	(wire
 		(pts
@@ -6061,7 +5884,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 135.89) (xy 33.02 135.89)
+			(xy 27.94 133.35) (xy 33.02 133.35)
 		)
 		(stroke
 			(width 0)
@@ -6230,9 +6053,9 @@
 		)
 		(uuid "1d487845-3ed0-4cb4-97dd-c3e5259ea3ea")
 	)
-	(text "USB Boot key"
+	(text "Autostart"
 		(exclude_from_sim no)
-		(at 43.18 188.214 0)
+		(at 46.482 186.69 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -6240,6 +6063,17 @@
 			(justify left bottom)
 		)
 		(uuid "4a0acb08-259d-43da-9732-6778221ddd12")
+	)
+	(text "For EG95, R27=10k\nFor EG912U, R27<1k"
+		(exclude_from_sim no)
+		(at 45.72 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5e6f7cf6-a761-4832-bcb6-9f404c4b582d")
 	)
 	(text "Red"
 		(exclude_from_sim no)
@@ -6352,7 +6186,7 @@
 	)
 	(global_label "MODEM_RESET"
 		(shape input)
-		(at 33.02 138.43 0)
+		(at 33.02 135.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6362,7 +6196,7 @@
 		)
 		(uuid "27d938c1-3984-4945-99a5-2e3f602ef1f6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.3702 138.43 0)
+			(at 49.3702 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6374,7 +6208,7 @@
 	)
 	(global_label "USB_DP"
 		(shape input)
-		(at 33.02 146.05 0)
+		(at 33.02 148.59 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6384,7 +6218,7 @@
 		)
 		(uuid "3b2b42e9-8ca8-46ba-b62c-dc507d2cc2d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.3228 146.05 0)
+			(at 43.3228 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6460,6 +6294,28 @@
 			)
 		)
 	)
+	(global_label "MODEM_PWRKEY"
+		(shape input)
+		(at 53.34 172.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "637340e7-7178-4779-8980-21f6596f7608")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.2359 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MODEM_USIM_CLK"
 		(shape input)
 		(at 129.54 58.42 0)
@@ -6506,7 +6362,7 @@
 	)
 	(global_label "MODEM_PWRKEY"
 		(shape input)
-		(at 33.02 135.89 0)
+		(at 33.02 133.35 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6516,7 +6372,7 @@
 		)
 		(uuid "755a2857-5b4f-48a8-be0f-9025569cc04e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.1241 135.89 0)
+			(at 51.1241 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6704,7 +6560,7 @@
 	)
 	(global_label "USB_DN"
 		(shape input)
-		(at 33.02 148.59 0)
+		(at 33.02 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6714,7 +6570,7 @@
 		)
 		(uuid "ce436f25-e4c9-4991-ad06-6891c3f6210c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.3833 148.59 0)
+			(at 43.3833 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6770,29 +6626,29 @@
 	)
 	(global_label "VDD_EXT"
 		(shape input)
-		(at 38.1 179.07 180)
+		(at 33.02 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "e79c7a44-ba11-4e93-8bab-4e2f58b9c147")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.1925 179.07 0)
+			(at 43.9275 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "MODEM_USB_BOOT"
 		(shape input)
-		(at 71.12 179.07 0)
+		(at 33.02 143.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6802,7 +6658,7 @@
 		)
 		(uuid "ea3b9408-276a-4e54-a26d-e966980df3c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.4013 179.07 0)
+			(at 53.3013 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7476,74 +7332,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 58.42 179.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "294d5608-835a-4dfa-a950-8048fbc9c858")
-		(property "Reference" "SW1"
-			(at 58.42 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "B3U-1000P"
-			(at 58.42 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
-			(at 58.42 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 58.42 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3e4b16f3-7bfa-465c-8f42-46d86fc73868")
-		)
-		(pin "2"
-			(uuid "a8f46b88-7787-469e-9acb-79a8eaea9af5")
-		)
-		(instances
-			(project ""
-				(path "/81dea973-9ff3-499f-8a46-acefd4a76150/6c47dcf9-5816-4ed5-88a6-9e570374b167"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 82.55 137.16 0)
 		(unit 1)
@@ -7893,7 +7681,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 27.94 138.43 90)
+		(at 27.94 135.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7901,7 +7689,7 @@
 		(dnp no)
 		(uuid "48cd77af-d3f2-42d6-867d-2e4036a5166f")
 		(property "Reference" "TP13"
-			(at 20.32 138.43 90)
+			(at 20.32 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7909,7 +7697,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 24.638 135.89 90)
+			(at 24.638 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7918,7 +7706,7 @@
 			)
 		)
 		(property "Footprint" "footprints:TestPoint_Pad_1mm"
-			(at 27.94 133.35 0)
+			(at 27.94 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7927,7 +7715,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 133.35 0)
+			(at 27.94 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7936,7 +7724,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 27.94 138.43 0)
+			(at 27.94 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8699,74 +8487,6 @@
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150/6c47dcf9-5816-4ed5-88a6-9e570374b167"
 					(reference "C17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 48.26 179.07 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "66c33068-a4d5-4d81-adf9-407668bb461a")
-		(property "Reference" "R27"
-			(at 48.26 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 48.26 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 48.26 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 48.26 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 48.26 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8274532e-1503-49fe-b812-9d3a4a664d03")
-		)
-		(pin "2"
-			(uuid "a2974a2a-8389-4c7b-8942-b0aa094193da")
-		)
-		(instances
-			(project "usb-lte"
-				(path "/81dea973-9ff3-499f-8a46-acefd4a76150/6c47dcf9-5816-4ed5-88a6-9e570374b167"
-					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -9840,7 +9560,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 27.94 148.59 90)
+		(at 27.94 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9848,7 +9568,7 @@
 		(dnp no)
 		(uuid "9c3d15ef-0e6c-4157-92c8-1eda77893ac4")
 		(property "Reference" "TP19"
-			(at 20.32 148.59 90)
+			(at 20.32 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9856,7 +9576,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 24.638 146.05 90)
+			(at 24.638 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9865,7 +9585,7 @@
 			)
 		)
 		(property "Footprint" "footprints:TestPoint_Pad_1mm"
-			(at 27.94 143.51 0)
+			(at 27.94 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9874,7 +9594,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 143.51 0)
+			(at 27.94 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9883,7 +9603,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 27.94 148.59 0)
+			(at 27.94 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10552,7 +10272,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 27.94 135.89 90)
+		(at 27.94 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10560,7 +10280,7 @@
 		(dnp no)
 		(uuid "b87355f5-8cc6-4728-a68e-c2a95a674806")
 		(property "Reference" "TP12"
-			(at 20.32 135.89 90)
+			(at 20.32 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10568,7 +10288,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 24.638 133.35 90)
+			(at 24.638 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10577,7 +10297,7 @@
 			)
 		)
 		(property "Footprint" "footprints:TestPoint_Pad_1mm"
-			(at 27.94 130.81 0)
+			(at 27.94 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10586,7 +10306,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 130.81 0)
+			(at 27.94 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10595,7 +10315,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 27.94 135.89 0)
+			(at 27.94 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10752,7 +10472,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 27.94 146.05 90)
+		(at 27.94 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10760,7 +10480,7 @@
 		(dnp no)
 		(uuid "c75cb2f7-5b00-423b-aeed-84ebfc76524c")
 		(property "Reference" "TP18"
-			(at 20.32 146.05 90)
+			(at 20.32 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10768,7 +10488,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 24.638 143.51 90)
+			(at 24.638 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10777,7 +10497,7 @@
 			)
 		)
 		(property "Footprint" "footprints:TestPoint_Pad_1mm"
-			(at 27.94 140.97 0)
+			(at 27.94 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10786,7 +10506,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 140.97 0)
+			(at 27.94 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10795,7 +10515,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 27.94 146.05 0)
+			(at 27.94 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11355,6 +11075,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 69.85 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e5408650-10e9-41dd-83e2-e31489a85cf8")
+		(property "Reference" "#PWR35"
+			(at 69.85 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 69.977 179.6542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 69.85 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7933401-a50c-4b95-8434-39d75a618f3e")
+		)
+		(instances
+			(project "usb-lte"
+				(path "/81dea973-9ff3-499f-8a46-acefd4a76150/6c47dcf9-5816-4ed5-88a6-9e570374b167"
+					(reference "#PWR35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized_Small_US")
 		(at 151.13 27.94 0)
 		(unit 1)
@@ -11425,8 +11210,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 60.96 172.72 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea0f569b-7c94-4945-84df-5a1e61daace8")
+		(property "Reference" "R27"
+			(at 60.96 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 60.96 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 60.96 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 60.96 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 60.96 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8c7d6e6-88b4-4059-9588-3fa90ae488b1")
+		)
+		(pin "2"
+			(uuid "4f472f88-fb0c-4d53-bf54-bcaaf0a681a6")
+		)
+		(instances
+			(project "usb-lte"
+				(path "/81dea973-9ff3-499f-8a46-acefd4a76150/6c47dcf9-5816-4ed5-88a6-9e570374b167"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 41.91 176.53 0)
+		(at 27.94 140.97 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11434,16 +11287,15 @@
 		(dnp no)
 		(uuid "ea34607b-04c9-487f-9ecb-4c1c26d1b301")
 		(property "Reference" "TP16"
-			(at 39.624 170.942 0)
+			(at 20.32 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 44.45 174.4979 0)
+			(at 25.9079 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11453,7 +11305,7 @@
 			)
 		)
 		(property "Footprint" "footprints:TestPoint_Pad_1mm"
-			(at 46.99 176.53 0)
+			(at 27.94 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11462,7 +11314,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 176.53 0)
+			(at 27.94 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11471,7 +11323,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 41.91 176.53 0)
+			(at 27.94 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11907,7 +11759,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 67.31 176.53 0)
+		(at 27.94 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11915,16 +11767,15 @@
 		(dnp no)
 		(uuid "fed34fb9-4869-4816-bb23-1a93692aba7d")
 		(property "Reference" "TP17"
-			(at 65.024 170.942 0)
+			(at 20.32 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 69.85 174.4979 0)
+			(at 25.9079 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11934,7 +11785,7 @@
 			)
 		)
 		(property "Footprint" "footprints:TestPoint_Pad_1mm"
-			(at 72.39 176.53 0)
+			(at 27.94 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11943,7 +11794,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 176.53 0)
+			(at 27.94 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11952,7 +11803,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 67.31 176.53 0)
+			(at 27.94 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
