@@ -9183,7 +9183,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS62A02APDDC"
+		(property "Value" "TPS62A02ADRL"
 			(at 57.15 134.62 0)
 			(effects
 				(font
