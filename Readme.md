@@ -1,12 +1,16 @@
 ## Framework Cellular Expansion Card
 
+<img src="./img/assembly-angled.jpg" alt="assembly-angled" width="700"/>
+
 Compatible with Quectel cellular modules with same pinout as BG96.
 
-This PCB design has never been tested nor guarenteed to work as of current, therefore gerber will not be provided and you should only proceed ordering at your own risk.
+This PCB design has been tested with EG912U-GL and EG95-EX modules. Other modules with compatible pinout will need different component values in various positions, consult the relevant hardware design information for details.
+
+This PCB design is in alpha state, therefore gerber will not be provided and you should only proceed ordering at your own risk.
 
 This PCB design does not incorporate built in antennas, and instead includes MHF-1 connectors for LTE main, diversity and GNSS. Thus you should pair your own 50 ohms impedance LTE antenna.
 
-The PCB is 15mm longer than a regular expansion card PCB, a case design is in the works.
+The PCB is 15mm longer than a regular expansion card PCB, a preliminary case design is provided.
 
 ### Board specifications
 
