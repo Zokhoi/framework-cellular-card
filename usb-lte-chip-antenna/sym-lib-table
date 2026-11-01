@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "eg95")(type "KiCad")(uri "${KIPRJMOD}/../lib/eg95.kicad_sym")(options "")(descr ""))
   (lib (name "SR4L049-R")(type "KiCad")(uri "${KIPRJMOD}/../lib/SR4L049-R.kicad_sym")(options "")(descr ""))
+  (lib (name "YC0017EA")(type "KiCad")(uri "${KIPRJMOD}/../lib/YC0017EA.kicad_sym")(options "")(descr ""))
 )
