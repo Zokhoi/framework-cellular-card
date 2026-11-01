@@ -2726,7 +2726,7 @@
 		(descr "25mm × 7mm × 3mm")
 		(tags "Antenna")
 		(property "Reference" "ANT1"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "aa88849e-83fb-4cf5-bee3-2c29caba8009")
 			(effects
@@ -2737,7 +2737,7 @@
 			)
 		)
 		(property "Value" "YC0017EA"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "83a18873-a1ba-4625-9146-38b2f0c962ea")
@@ -2749,7 +2749,7 @@
 			)
 		)
 		(property "Footprint" "YC0017EA"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58b9af14-9567-4df5-a80d-c08e564f58f0")
@@ -2761,7 +2761,7 @@
 			)
 		)
 		(property "Datasheet" "https://quectel.com/content/uploads/2024/03/Quectel_Antenna_YC0017EA_Datasheet_V3.0.pdf?wpId=116693"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c76ed828-428f-40cd-b5e8-5c6528ac3c82")
@@ -2773,7 +2773,7 @@
 			)
 		)
 		(property "Description" "Antennas Embedded Antenna, PCB Chip, SMT mount, 25  7  3mm, IFA, 4G*1,RoHS&REACH Compliant , 698MHz ~ 3.8GHz , 50 , -40C to +85C"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "412205b1-7c1e-4f37-a659-79242b1e8de3")
@@ -2854,6 +2854,26 @@
 		(sheetfile "eg95.kicad_sch")
 		(attr smd)
 		(fp_line
+			(start 12.8 -2.5)
+			(end 12.8 -2.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "63b350af-104d-4b3d-8017-69e28f1aa2d0")
+		)
+		(fp_line
+			(start 12.8 -2.55)
+			(end 12.8 -2.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f48111a2-6412-4a3a-ae71-c6960db46cdd")
+		)
+		(fp_line
 			(start 12.5 3.5)
 			(end 12.2 3.5)
 			(stroke
@@ -2882,26 +2902,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "22c88122-fc7b-4d5d-9539-654656276506")
-		)
-		(fp_line
-			(start 9.4 -3.95)
-			(end 9.4 -3.95)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "63b350af-104d-4b3d-8017-69e28f1aa2d0")
-		)
-		(fp_line
-			(start 9.4 -4.05)
-			(end 9.4 -4.05)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f48111a2-6412-4a3a-ae71-c6960db46cdd")
 		)
 		(fp_line
 			(start -10 3.5)
@@ -2954,9 +2954,9 @@
 			(uuid "2239b150-12b9-4ec6-8e92-0b9eb53ca62f")
 		)
 		(fp_arc
-			(start 9.4 -3.95)
-			(mid 9.35 -4)
-			(end 9.4 -4.05)
+			(start 12.8 -2.45)
+			(mid 12.75 -2.5)
+			(end 12.8 -2.55)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -2965,9 +2965,9 @@
 			(uuid "60b4b080-534e-4499-99f2-ac9674cfa172")
 		)
 		(fp_arc
-			(start 9.4 -4.05)
-			(mid 9.45 -4)
-			(end 9.4 -3.95)
+			(start 12.8 -2.55)
+			(mid 12.85 -2.5)
+			(end 12.8 -2.45)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -3056,7 +3056,7 @@
 			(uuid "fa9aced2-9660-4c80-9dc2-3cb1e95ea272")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "126c5ebd-d0a0-44e3-bf30-8c6b7952d313")
 			(effects
