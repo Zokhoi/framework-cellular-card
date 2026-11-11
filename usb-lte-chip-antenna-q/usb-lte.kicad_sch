@@ -6041,6 +6041,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R7")
 					(unit 1)
@@ -6106,6 +6112,12 @@
 			(uuid "61be69d0-8928-40b3-aa71-0489bfd15479")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP2")
@@ -6187,6 +6199,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "Q1")
 					(unit 1)
@@ -6257,6 +6275,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R9")
 					(unit 1)
@@ -6321,6 +6345,12 @@
 			(uuid "ba98d4b9-9427-453e-b914-153e103a122d")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR30")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR30")
@@ -6388,6 +6418,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR17")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR17")
 					(unit 1)
@@ -6452,6 +6488,12 @@
 			(uuid "382a6848-00e9-4d28-9f7d-2f4d4dc4c438")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR18")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR18")
@@ -6521,6 +6563,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R3")
 					(unit 1)
@@ -6587,6 +6635,12 @@
 			(uuid "6538e5d4-6405-486a-8547-d15bc8c7974d")
 		)
 		(instances
+			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "J2")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "J2")
@@ -6688,6 +6742,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "P1")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "P1")
 					(unit 1)
@@ -6752,6 +6812,12 @@
 			(uuid "21a57212-c2ce-4012-b12f-5baab20e8c60")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR4")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR4")
@@ -6818,6 +6884,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR39")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR39")
 					(unit 1)
@@ -6882,6 +6954,12 @@
 			(uuid "ba65f3d3-696c-48c5-b465-73134dbde91d")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR20")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR20")
@@ -6951,6 +7029,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R6")
 					(unit 1)
@@ -7018,6 +7102,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP9")
 					(unit 1)
@@ -7083,6 +7173,12 @@
 			(uuid "d37fa62c-254c-4a92-8961-9a8ec8326f6a")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP3")
@@ -7164,6 +7260,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "Q1")
+					(unit 2)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "Q1")
 					(unit 2)
@@ -7231,6 +7333,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C25")
 					(unit 1)
@@ -7297,6 +7405,12 @@
 			(uuid "ba2b6f6d-a1d2-4203-8b8b-93a269edc7f1")
 		)
 		(instances
+			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP5")
@@ -7366,6 +7480,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C5")
 					(unit 1)
@@ -7434,6 +7554,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R11")
 					(unit 1)
@@ -7500,6 +7626,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP1")
 					(unit 1)
@@ -7564,6 +7696,12 @@
 			(uuid "b3f2f8fb-74d3-429c-aa38-2e4284024997")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR19")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR19")
@@ -7639,6 +7777,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "D1")
 					(unit 1)
@@ -7707,6 +7851,12 @@
 			(uuid "6e8bad86-4ae2-4b03-b190-7d6bd6922a5c")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R1")
@@ -7778,6 +7928,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R4")
 					(unit 1)
@@ -7845,6 +8001,12 @@
 			(uuid "eab1b9f4-b78b-48ee-9871-290f103c832d")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "L5")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "L5")
@@ -7934,6 +8096,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "J1")
 					(unit 1)
@@ -8000,6 +8168,12 @@
 			(uuid "c9a1bb64-03c5-4b1c-9fb9-e90699b6f4c4")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP11")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP11")
@@ -8069,6 +8243,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C3")
 					(unit 1)
@@ -8135,6 +8315,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR15")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR15")
 					(unit 1)
@@ -8200,6 +8386,12 @@
 			(uuid "db26e2c6-4e5f-4cfa-a090-29cb2eca6bc5")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP4")
@@ -8271,6 +8463,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R15")
 					(unit 1)
@@ -8336,6 +8534,12 @@
 			(uuid "4a5da5f0-add9-4272-93a4-93f39eb9a172")
 		)
 		(instances
+			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR10")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR10")
@@ -8417,6 +8621,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "Q2")
 					(unit 1)
@@ -8481,6 +8691,12 @@
 			(uuid "5b662854-1edc-4610-8b91-aca66a4d4b53")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR3")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR3")
@@ -8552,6 +8768,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R19")
 					(unit 1)
@@ -8617,6 +8839,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP8")
 					(unit 1)
@@ -8681,6 +8909,12 @@
 			(uuid "c31f4e64-9d59-40f8-94f5-c14a0774c65b")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR32")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR32")
@@ -8762,6 +8996,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "Q2")
+					(unit 2)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "Q2")
 					(unit 2)
@@ -8828,6 +9068,12 @@
 			(uuid "db01c37c-315b-4b64-89af-e771d53935e0")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R20")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R20")
@@ -8896,6 +9142,12 @@
 			(uuid "87cbad40-082f-4c2a-863c-d46f01828b81")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R17")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R17")
@@ -8967,6 +9219,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R18")
 					(unit 1)
@@ -9034,6 +9292,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP7")
 					(unit 1)
@@ -9099,6 +9363,12 @@
 			(uuid "cc58594d-6c3d-4600-94a0-3df82c4bac49")
 		)
 		(instances
+			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR5")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR5")
@@ -9169,6 +9439,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C1")
 					(unit 1)
@@ -9236,6 +9512,12 @@
 			(uuid "5907a3d2-780f-4e11-b61a-5c01172046b9")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C15")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C15")
@@ -9305,6 +9587,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C6")
 					(unit 1)
@@ -9373,6 +9661,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R2")
 					(unit 1)
@@ -9439,6 +9733,12 @@
 			(uuid "50610322-991e-4514-8d89-adbd48858e64")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP6")
@@ -9509,6 +9809,12 @@
 			(uuid "de0758c2-5fc3-4ed7-9256-a3bc5433b5fd")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R13")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R13")
@@ -9592,6 +9898,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "U1")
 					(unit 1)
@@ -9659,6 +9971,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C14")
 					(unit 1)
@@ -9723,6 +10041,12 @@
 			(uuid "b37c3ee5-e51a-4e83-a241-b15beafd028f")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR2")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR2")
@@ -9794,6 +10118,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R14")
 					(unit 1)
@@ -9864,6 +10194,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R10")
 					(unit 1)
@@ -9932,6 +10268,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C26")
 					(unit 1)
@@ -9999,6 +10341,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R5")
 					(unit 1)
@@ -10063,6 +10411,12 @@
 			(uuid "b43c3276-31e6-4afa-8197-b92387fb21b7")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR26")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR26")
@@ -10129,6 +10483,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR31")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR31")
 					(unit 1)
@@ -10193,6 +10553,12 @@
 			(uuid "6ddeb0b2-afc6-4165-a3e6-82f568e28974")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR7")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR7")
@@ -10264,6 +10630,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C2")
 					(unit 1)
@@ -10331,6 +10703,12 @@
 			(uuid "c787a3e8-8fe1-4d6a-ad89-1e3d2803a831")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R8")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R8")
@@ -10400,6 +10778,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "C4")
 					(unit 1)
@@ -10466,6 +10850,12 @@
 			(uuid "fc4c744e-94df-4176-acb4-df322478b47e")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "R12")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "R12")
@@ -10534,6 +10924,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "TP10")
 					(unit 1)
@@ -10599,6 +10995,12 @@
 		)
 		(instances
 			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR1")
+					(unit 1)
+				)
+			)
+			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR1")
 					(unit 1)
@@ -10663,6 +11065,12 @@
 			(uuid "818b987c-770f-4b0f-b564-15644ad4bb81")
 		)
 		(instances
+			(project "usb-lte"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "#PWR21")
+					(unit 1)
+				)
+			)
 			(project "usb-lte"
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "#PWR21")
@@ -10747,6 +11155,12 @@
 		)
 		(instances
 			(project ""
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/81dea973-9ff3-499f-8a46-acefd4a76150"
 					(reference "D2")
 					(unit 1)
@@ -10790,11 +11204,16 @@
 					(page "2")
 				)
 			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "1")
+			(project ""
+				(path "/d877ef7b-865a-4047-8343-25926b5a216e"
+					(page "")
+				)
+			)
+			(project "usb-lte.alt"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf/d877ef7b-865a-4047-8343-25926b5a216e"
+					(page "2")
+				)
+			)
 		)
 	)
 )

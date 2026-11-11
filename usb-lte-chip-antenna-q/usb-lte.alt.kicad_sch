@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "525ff356-263b-4bcf-bef4-742162d39daf")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 131.572 85.598)
+		(size 14.732 10.414)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d877ef7b-865a-4047-8343-25926b5a216e")
+		(property "Sheetname" "usb-lte"
+			(at 131.572 84.8864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb-lte.kicad_sch"
+			(at 131.572 96.5966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "usb-lte.alt"
+				(path "/525ff356-263b-4bcf-bef4-742162d39daf"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
