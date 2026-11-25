@@ -8,9 +8,9 @@ This PCB design has been tested with EG912U-GL and EG95-EX modules. Other module
 
 This PCB design is in alpha state, therefore gerber will not be provided and you should only proceed ordering at your own risk.
 
-This PCB design does not incorporate built in antennas, and instead includes MHF-1 connectors for LTE main, diversity and GNSS. Thus you should pair your own 50 ohms impedance LTE antenna.
+There are multiple designs for use with external or SMD Antenna. The `usb-lte` design includes MHF-1 connectors for LTE main, diversity and GNSS, thus requiring 50 ohms impedance LTE antenna. The `usb-lte-chip-antenna` and `usb-lte-chip-antenna-q` design incorporates different SMD antenna, refer to their schematics for details.
 
-The PCB is 15mm longer than a regular expansion card PCB, a preliminary case design is provided.
+The `usb-lte` PCB is 15mm longer than a regular expansion card PCB, with a preliminary case design provided. The `usb-lte-chip-antenna` design is 25mm longer and the `usb-lte-chip-antenna-q` design is 30mm longer to accomodate for the space required for the SMD antenna.
 
 ### Board specifications
 

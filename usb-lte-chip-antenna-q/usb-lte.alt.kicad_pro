@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.35,
-          "width": 1.325
+          "height": 0.9906,
+          "width": 0.9906
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -118,7 +118,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.1,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -486,10 +486,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "C:/Windows/System32/",
-      "plot": "",
+      "plot": "gerber.alt/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "usb-lte.alt.step",
       "svg": "",
       "vrml": ""
     },
